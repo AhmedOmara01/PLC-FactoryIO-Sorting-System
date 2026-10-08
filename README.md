@@ -16,6 +16,17 @@ An automated industrial material handling and sorting system designed to classif
 └── docs/  # System architecture diagrams, setup guidelines, and demo media
 ```
 
+## 🖼️ System Demonstration & Logic
+
+### 1. 3D Factory I/O Environment
+| Before Start | After System Start |
+| :---: | :---: |
+| ![Factory I/O Initial State](docs/factoryio_before_start.png) | ![Factory I/O Running State](docs/factoryio_after_start.png) |
+
+### 2. TIA Portal Ladder Logic (LAD)
+| Logic Segment 1 | Logic Segment 2 |
+| :---: | :---: |
+| ![TIA Portal Logic Part 1](docs/tia_portal_logic.part1.png) | ![TIA Portal Logic Part 2](docs/tia_portal_logic.part2.png) |
 
 ## ⚙️ Control Strategy & Features
 * Automated conveyor control for continuous material flow.
