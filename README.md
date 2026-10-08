@@ -13,6 +13,7 @@ An automated industrial material handling and sorting system designed to classif
 ## 📁 Repository Structure
 
 ├── src/   # TIA Portal project files & Factory I/O scene files
+
 └── docs/  # System architecture diagrams, setup guidelines, and demo media
 
 ## ⚙️ Control Strategy & Features
